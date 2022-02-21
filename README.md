@@ -3,10 +3,4 @@
 - 🌱 I’m currently learning - Js, html, python
 - 📫 How to reach me - I do not know
 
-<!---
-KeJcz2137/KeJcz2137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/87245649/154915543-aea9911a-e9cf-4f73-8268-9247606e1118.gif)
