@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm `xyzaun`👤I'm a young developer 🔥 I'am the owner of the FIRE-CODE.PL server
+👋 I'm `xyzaun`👤I'm a young developer 🔥 I'm the owner of the FIRE-CODE.PL server
 
 
 # 💻 Tech Stack:
